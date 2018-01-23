@@ -3,9 +3,9 @@
 * File  :LeetCode122.cpp
 * Desc. :
 *   
-* Author: shuhan.lyn(102759)
+* Author: liyanan0904
 * Date  : 2017.12.24
-* Email : shuhan.lyn@alibaba-inc.com
+* Email : **********
 ============================================================================*/
 
 
